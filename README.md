@@ -1,5 +1,6 @@
 # Label-Detection
 Text detection, Segmentation and OCR DNN Project on Detol Labels
+
 Module 1 : Text segmentation of serial number
 
 This uses :
